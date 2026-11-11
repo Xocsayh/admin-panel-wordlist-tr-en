@@ -48,3 +48,7 @@ python3 turkce/gen_wordlist.py
 
 Yalnızca **yetkili** olduğunuz sistemlerde ve yasal güvenlik testlerinde kullanın.
 İzinsiz tarama yapmak yasa dışıdır.
+
+## Lisans
+
+[MIT](LICENSE) — serbestçe kullan, değiştir ve dağıt.
