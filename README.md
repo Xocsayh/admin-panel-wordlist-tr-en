@@ -15,6 +15,7 @@ terimlere dayanır — GitHub'daki global listelerde (SecLists vb.) bu kapsam yo
 | `turkce/turkce-kullanicilar.txt` | ~1.2K | Kullanıcı adı denemeleri |
 | `turkce/turkce-parametreler.txt` | ~900 | URL parametre isimleri (fuzzing) |
 | `turkce/turkce-web-icerik.txt` | ~151K | Dizin + dosya birleşik büyük liste |
+| `turkce/gen_wordlist.py` | — | Listeleri üreten/büyüten Python betiği |
 
 Her liste hem küçük hem BÜYÜK harf varyantlarını içerir (`admin` ve `ADMIN`).
 Türkçe karakterli (`yönetim`, `şifre`) ve ASCII karşılıkları (`yonetim`, `sifre`) birlikte.
